@@ -1,9 +1,6 @@
-# food_deliver
+# Tutorial
 
 A new Flutter UI tutorial project.
-
-## Getting Started
-
 This project is a starting point for a Flutter application.
 
 
